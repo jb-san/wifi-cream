@@ -12,6 +12,6 @@ sudo apt-get install git
 git clone https://github.com/jb-san/wifi-cream.git
 cd wifi-cream
 ./install.sh
-
+```
 wait for it to compile and install, you will then be asked a bunch of questions regarding your wifi, you can skip this if you want to configure /wpa_suppliment by hand later..
 although why would you..
