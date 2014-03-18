@@ -4,7 +4,7 @@ wifi-cream
 Automate the compilation and installation of the tl-wn725n driver for rasberry-pi
 Almost all of the scripts are from other sources.. thanks to enekochan[http://tech.enekochan.com/2013/05/29/compile-and-install-driver-for-tp-link-tl-wn725n-version-2-in-raspbian/]
 
-``
+```
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
